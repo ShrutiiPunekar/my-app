@@ -1,0 +1,148 @@
+/*WIT Routing CSS*/
+.loc{
+  margin-left:125px;
+}
+.main_div{
+  border:solid;
+  width:485px;
+}
+.outer{
+  background:red;
+  position:relative;
+  height:450px;
+  width:485px;
+  /*padding-top:30px;*/
+  }
+.container1{
+  background:white;
+  position:relative;
+  height:400px;
+  width:385px;
+ /*margin-top :50px;*/
+  margin-left:50px;
+  margin-right:50px;
+  border:solid;
+}
+.inner{
+  background:black;
+  position:absolute;
+  height:330px;
+  margin-top :30px;
+  margin-left:30px;
+  margin-right:30px;
+  width: 320px;
+}
+.btn{
+  width:50px;
+  font-size:10px !important;
+  padding:2px !important;
+  background:green !important;
+}
+/* .btn do comment */
+
+.btn-315{
+  margin-left:5px;
+}
+.btn-317{
+  margin-left:20px;
+}
+.btn-318{
+  margin-left:20px;
+}
+
+
+.btn-302{
+  margin-left:5px;
+  margin-top:282px;
+}
+.btn-303{
+  margin-top:280px;
+  margin-top:282px;
+}
+.btn-304{
+  margin-left:20px;
+  margin-top:270px;
+}
+.btn-305{
+  margin-left:20px;
+  margin-top:285px;
+}
+.btn-306{
+  margin-top:275px;
+  margin-top:282px;
+}
+
+
+
+.btn-301{
+  position:absolute;
+  margin-left:-295px;
+  margin-top:150px;
+  background:green !important;
+}
+.btn-309{
+  position:absolute;
+  margin-left:-25px;
+  margin-top:150px;
+  background:green !important;
+}
+
+
+.stair1{
+  position:absolute;
+  margin-top:-3px;
+}
+.btn-L301{
+  position:absolute;
+  margin-left:1px;
+  margin-top:180px;
+}
+.btn-admi{
+  position:absolute;
+  margin-left:1px;
+  margin-top:280px;
+}
+.stair2{
+  position:absolute;
+  margin-top:350px;
+}
+
+
+.stair3{
+  position:absolute;
+  margin-left:58px;
+  margin-top:-58px;
+}
+.btn-308{
+  position:absolute;
+  margin-left:58px;
+  margin-top:80px;
+
+}.btn-307{
+  position:absolute;
+  margin-left:58px;
+  margin-top:200px;
+}
+.stair4{
+  position:absolute;
+  margin-left:55px;
+  margin-top:260px;
+}
+
+.lift1{
+  margin-left:275px;
+  margin-top:39px;
+}
+
+.gate{
+  position:relative;
+  margin-left:441px;
+  transform:rotate(90deg);
+}
+.library{
+  margin-left:205px;
+  margin-top:12px;
+}
+
+
+/*WIT Routing CSS*/
